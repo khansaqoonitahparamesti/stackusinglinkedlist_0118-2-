@@ -27,6 +27,7 @@ public:
 
 	//push operation : remove the topmost element onto the top of the stack
 	int push(int value) {
-
+		Node* newNode = new Node();// Create a new node with the given value
+		
 	}
 };
