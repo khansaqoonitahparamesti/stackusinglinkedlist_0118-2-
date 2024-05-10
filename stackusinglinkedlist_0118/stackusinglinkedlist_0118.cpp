@@ -24,4 +24,9 @@ public:
 	stack() {
 		top = NULL; //initialize the stack wtih null top pointer
 	}
+
+	//push operation : remove the topmost element onto the top of the stack
+	int push(int value) {
+
+	}
 };
